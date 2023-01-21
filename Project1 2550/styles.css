@@ -1,0 +1,46 @@
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 300%;
+
+    text-align: center;
+  }
+  h1
+  {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  img {
+    border: 5px solid #555;
+  }
+
+body {
+
+    background-color: 	#faf0e6;
+  }
+  
+  p 
+  table, th, td {
+    border:1px solid black;
+  }
+  th {
+    text-align: left;
+  }
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .center {
+    margin: auto;
+    width: 60%;
+    
+    padding: 10px;
+  }
+  body {
+    background-repeat: repeat-y;
+    background-image: url("img/fc5.png");  
+  } 
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
